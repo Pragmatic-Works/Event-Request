@@ -1,5 +1,5 @@
-# event-request
-Event / Field Trip Request
+# Event-Request
+Event / Field Trip Request Power App
 
 Version 1 of the Power App to field trip and event requests especially geared for schools using Power Apps.
 
