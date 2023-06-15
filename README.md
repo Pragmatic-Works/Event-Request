@@ -28,31 +28,31 @@ Optionally, you can use the data model to show the data on a Power Page to have 
 <h2>Features</h2>
 <B>Landing page for the Canvas Power App</B>  
   <BR>
-<img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/LandingPage.png>
+<img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/LandingPage.png">
 <P>
   <B>Create a new request as staff or a teacher. Logs teachers, chaparones and students participating and whether their forms have been turned on. </B>  
   <BR>
-  <img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/NewRequest.png>
+  <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/NewRequest.png">
 <P>
     <B>Edit the request and get quick stats on each event request. Only see the events you are an approver on or a requestor.</B>  
   <BR>
-<img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/EditRequest.png>
+<img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/EditRequest.png">
 <P>
     <B>Modify the students attending and whether their permission slips have been turned in.</B>  
   <BR>
- <img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Students.png>
+ <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Students.png">
 <P>
     <B>Track estimated expenses on the trip and whether any are covered by sponsors. </B>  
   <BR>
 
-    <img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Expense.png>
+    <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Expense.png">
 <P>
     <B>A quick administration view with a Model-Driven Power App. Quickly edit data or export rosters to Excel.</B>  
   <BR>
 
-    <img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/MDA.png>
+    <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/MDA.png">
 <P>
     <B>Quick reports available in Power BI in the Model-Driven Application.</B>  
   <BR>
 
-    <img src=https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/PBI.png>
+    <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/PBI.png">
