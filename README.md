@@ -27,7 +27,8 @@ Optionally, you can use the data model to show the data on a Power Page to have 
 <LI>Install the Core Table Mods solution
 <LI>Install the Event Request solution
   </OL>
-
+  <h3>Installation Video</h3>
+  Coming soon!  
 <h2>Features</h2>
 <B>Landing page for the Canvas Power App</B>  
   <BR>
