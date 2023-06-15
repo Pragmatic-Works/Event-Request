@@ -5,25 +5,28 @@ Version 1 of the Power App to field trip and event requests especially geared fo
 
 <h2>What is It?</h2>
 The Event Request Power App tracks requests for field trips, recruiting trips or personal development travel trips.
-1. Logs the request
-2. Requests approval by your direct supervisor
-3. Multi-tier approvals if needed
-4. Tracks students, teachers and charpones for events where it makes sense
-5. Tracks estimated expenses
-6. Tracks forms being turned in
-7. Easy to turn into a Power Page for parents to upload their permission slip
-
+<OL>
+<LI>Logs the request
+<LI>Requests approval by your direct supervisor
+<LI>Multi-tier approvals if needed
+<LI>Tracks students, teachers and charpones for events where it makes sense
+<LI>Tracks estimated expenses
+<LI>Tracks forms being turned in
+<LI>Easy to turn into a Power Page for parents to upload their permission slip
+  </OL>
 <h2>Requirements:</h2>
-1. Power Apps Premium License
-2. Dataverse (included in #1)
-
+<OL>
+  <LI>Power Apps Premium License
+<LI>Dataverse (included in #1)
+  </OL>
 Optionally, you can use the data model to show the data on a Power Page to have teachers and staff request events there at a more scalability license cost. 
 
 <h2>Installation Instructions</h2>
-1. Requirements prior to installation: Pragmatic Works UI Component Library ✅ https://github.com/Pragmatic-Works/Pragmatic-Works-UI-Component-Library
-2. Install the Core Table Mods solution
-3. Install the Event Request solution
-
+<OL>
+<LI>Requirements prior to installation: Pragmatic Works UI Component Library ✅ https://github.com/Pragmatic-Works/Pragmatic-Works-UI-Component-Library
+<LI>Install the Core Table Mods solution
+<LI>Install the Event Request solution
+  </OL>
 
 <h2>Features</h2>
 <B>Landing page for the Canvas Power App</B>  
