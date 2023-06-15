@@ -42,17 +42,13 @@ Optionally, you can use the data model to show the data on a Power Page to have 
   <BR>
  <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Students.png">
 <P>
-    <B>Track estimated expenses on the trip and whether any are covered by sponsors. </B>  
-  <BR>
-
-    <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Expense.png">
+    <B>Track estimated expenses on the trip and whether any are covered by sponsors. </B>    <BR>
+  <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/Expense.png">
 <P>
     <B>A quick administration view with a Model-Driven Power App. Quickly edit data or export rosters to Excel.</B>  
   <BR>
-
     <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/MDA.png">
 <P>
     <B>Quick reports available in Power BI in the Model-Driven Application.</B>  
   <BR>
-
     <img src="https://github.com/Pragmatic-Works/event-request/blob/main/Screenshots/PBI.png">
