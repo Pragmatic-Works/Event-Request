@@ -29,7 +29,7 @@ Optionally, you can use the data model to show the data on a Power Page to have 
   </OL>
   <h3>Feature and Installation Video</h3>
 <a href="https://www.youtube.com/embed/y7w2J4ZL0tg">
-  <img src="https://img.youtube.com/vi/ENvLrYFNeqY/maxresdefault.jpg">
+  <img src="https://img.youtube.com/vi/y7w2J4ZL0tg/maxresdefault.jpg">
   </a>
   
 <h2>Features</h2>
