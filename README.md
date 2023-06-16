@@ -28,9 +28,9 @@ Optionally, you can use the data model to show the data on a Power Page to have 
 <LI>Install the Event Request solution
   </OL>
   <h3>Feature and Installation Video</h3>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y7w2J4ZL0tg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-  
-  
+<a href="https://www.youtube.com/embed/y7w2J4ZL0tg">
+  <img src="https://img.youtube.com/vi/ENvLrYFNeqY/maxresdefault.jpg">
+  </a>
   
 <h2>Features</h2>
 <B>Landing page for the Canvas Power App</B>  
